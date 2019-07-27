@@ -46,3 +46,6 @@ This project is motivated by the need for an easy to use and comprehensive sourc
 ### What I'll Have to Learn
 I will need to learn how to do User Authentication and User Accounts with Secure Login, Profile Management, and Access Levels.
 I will need to learn how to do 3rd Party API Integration for Google Maps and/or Google Calendar for sharing locations of gardens for different users and adding planting/harvesting times to google calendar. I will also need to look into how to pull 3rd party data on plants to my database. I will need to learn how to publish a site using AWS. I have taken some intro to javascript tutorials, but will need to learn more for front-end web aspects. I have a good understanding of using HTML and CSS, but I am less familiar with Bootstrap, so will need to familiarize myself with that. 
+
+### Project Tracker
+[Project Tracking Board](https://trello.com/b/qkzeLPOX/gardenplan)
