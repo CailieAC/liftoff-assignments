@@ -12,29 +12,29 @@ The Garden Planning web app will help users plan out their dream garden by provi
 This project is motivated by the need for an easy to use and comprehensive source of information to reference when planning out a garden.
 
 ### Features
-- Plant Index with Plant Info (Searchable)
-  - Plant Categories: Fruit, Vegetable, Other
-  - Spacing
-  - Water needs
-  - Sunlight needs
-  - Region
-  - Time to plant & harvest
-  - Ideal pH
-  - Fertilizer type and frequency
-  - Production per plant/SF
-- Garden Planning - Put together your own garden plant list
-  - Create, Edit, Update, Delete Garden Plans (lists of plants)
-- Calendar for planting/harvest times
-  - Or how to add calendar items/reminders to user’s existing calendar app
+- Plant Index 
+  - User will be able to access a list of plants and be able to search and sort through plants.
+  - Plant data will include the following:
+    - Plant Category: Fruit, Vegetable, Other
+    - Spacing
+    - Water needs
+    - Sunlight needs
+    - Region
+    - Time to plant & harvest
+    - Ideal pH
+    - Fertilizer type and frequency
+    - Production per plant/SF
+- Garden Planning
+  - User will be able to create, edit, update, and delete their garden plans which will consist of a list of plants they want to include in their garden.
+- Calendar 
+  - Users will be able to either view a calendar of when they need to plant and harvest their plants, or be able to add items/tasks to their existing calendar app
 - User Authentication
-  - User Sign-Up
-  - User Login
+  - Users will be able to create a new account and login to see their garden plans.
 - Social Aspect: 
-  - Sharing what plants people are growing and where
-  - Including community garden locations
+  - Users will be able to share what plants they are growing and where and see what others are growing and where.
 - Stretch/Future Goals:
-  - Rain level tracking through NWS Data
-  - Drag and Drop Layout
+  - Rain level tracking through National Weather Service Data
+  - Drag and Drop Garden Layout
 
 ### Technologies
 1. ASP.NET MVC
