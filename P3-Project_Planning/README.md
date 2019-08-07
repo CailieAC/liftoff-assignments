@@ -11,13 +11,13 @@ For this assignment, you'll create some initial plans for your project.
 
 Draw.io Wireframe Links:
 
-[Landing Page](https://www.draw.io/#G1lfwsPJw0i_D3pbLjgntPvecXTfBZKBWq)
+[Landing Page](https://drive.google.com/file/d/1lfwsPJw0i_D3pbLjgntPvecXTfBZKBWq/view?usp=sharing)
 
-[User Profile](https://www.draw.io/#G1HgEaVeTNuEZUoqdPMEPsyU3t-gTeXfVQ)
+[User Profile](https://drive.google.com/file/d/1HgEaVeTNuEZUoqdPMEPsyU3t-gTeXfVQ/view?usp=sharing)
 
-[Plant List](https://www.draw.io/#G1EBd-Okd8oDcFnAqqY70GxnzX2UJHYTO5)
+[Plant List](https://drive.google.com/file/d/1EBd-Okd8oDcFnAqqY70GxnzX2UJHYTO5/view?usp=sharing)
 
-[User Garden Plans](https://www.draw.io/#G1l69V1jJz3TyGfTfZzSbfTDpSHgGN5zMt)
+[User Garden Plans](https://drive.google.com/file/d/1l69V1jJz3TyGfTfZzSbfTDpSHgGN5zMt/view?usp=sharing)
 
 ### Project Tracker
 
