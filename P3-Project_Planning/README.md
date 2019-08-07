@@ -8,12 +8,21 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+
+Draw.io Wireframe Links:
+
+[Landing Page](https://www.draw.io/#G1lfwsPJw0i_D3pbLjgntPvecXTfBZKBWq)
+
+[User Profile](https://www.draw.io/#G1HgEaVeTNuEZUoqdPMEPsyU3t-gTeXfVQ)
+
+[Plant List](https://www.draw.io/#G1EBd-Okd8oDcFnAqqY70GxnzX2UJHYTO5)
+
+[User Garden Plans](https://www.draw.io/#G1l69V1jJz3TyGfTfZzSbfTDpSHgGN5zMt)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Garden Plan Trello](https://trello.com/b/qkzeLPOX/gardenplan)
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+[GitHub for GardenPlan Project](https://github.com/CailieAC/GardenPlan)
