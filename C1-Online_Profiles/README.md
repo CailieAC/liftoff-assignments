@@ -13,6 +13,5 @@ For this assignment you will need to upload your resume, and provide links to yo
 [LinkedIn for Cailie Carlile](https://www.linkedin.com/in/cailiecarlile/)
 
 ### Resume
-
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Resume for Cailie Carlile](https://github.com/CailieAC/liftoff-assignments/blob/master/Carlile%20LC%20RESUME.pdf)
 
